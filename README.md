@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Valluri Dinesh Ram</h1>
-<h3 align="center">🚀 ML Engineer | GenAI Engineer | Computer Vision Engineer</h3>
+
+
+<div align="center">
+  <p style="font-size: 52px; font-weight: bold; margin-bottom: 0;">
+    Hi 👋, I'm Valluri Dinesh Ram
+  </p>
+  <p style="font-size: 20px; margin-top: 5px;">
+    🚀 ML Engineer | GenAI Engineer | Computer Vision Engineer
+  </p>
+</div>
+
+
 
 ## 🧠 About
 
@@ -47,17 +57,17 @@ Currently working on **GPU-accelerated video analytics & embedded AI systems**
 |---------------|---------------------|
 | **Junior AI/ML Engineer – Tractrix (2025–Present)**<br>🚀 GPU video analytics<br>⚙️ GStreamer optimization<br>🧠 RAG LLM systems<br>🐧 Linux & edge deployment | **✋ Sign Language Recognition System**<br>MediaPipe + RF Model + Streamlit |
 | **AI Intern – Smart Prepper (2024)**<br>Flashcard, Mindmap, GEN AI tools<br>AWS S3 + OpenAI + Pinecone + RAG | **🔐 Network Security ML Pipeline**<br>FastAPI + MLflow + AWS S3 |
-| **NLP Intern – IIIT Hyderabad (2023–24)**<br>🎙️ CNN Speaker Recognition | **🖼️ CNN CIFAR-10 Classifier **<br>Deep Learning + CV |
+| **NLP Intern – IIIT Hyderabad (2023–24)**<br>🎙️ CNN Speaker Recognition | **🖼️ Various GEN AI Apps**<br>OpenAI + LLAMA + Groq + Langchain |
 
 ---
 
 ## 🏆 Achievements
 
 🥇 Amazon ML Challenge – Rank 103 / 5000  
-🧠 MIT iQuHACK 2023  
+🧠 MIT iQuHACK 2023 - Microsoft challenge 
 🏅 NPTEL Elite  
 🛡️ SIH & Kavach Hackathon  
-🌐 Cisco CCNA  
+🌐 Cisco CCNA Certified
 
 ---
 
