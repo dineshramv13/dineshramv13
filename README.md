@@ -5,7 +5,7 @@
     Hi 👋, I'm Valluri Dinesh Ram
   </p>
   <p style="font-size: 20px; margin-top: 5px;">
-    🚀 ML Engineer | GenAI Engineer | Computer Vision Engineer
+    🚀 AI/ML Engineer | Agentic Systems | Computer Vision Engineer
   </p>
 </div>
 
@@ -52,14 +52,15 @@ Currently working on **GPU-accelerated video analytics & embedded AI systems**
 ---
 
 ## 💼 Experience & 🚀 Projects
-
 | 💼 Experience | 🚀 Featured Projects |
 |---------------|---------------------|
-| **Junior AI/ML Engineer – Tractrix (2025–Present)**<br>🚀 GPU video analytics<br>⚙️ GStreamer optimization<br>🧠 RAG LLM systems<br>🐧 Linux & edge deployment | **✋ Sign Language Recognition System**<br>MediaPipe + RF Model + Streamlit |
-| **AI Intern – Smart Prepper (2024)**<br>Flashcard, Mindmap, GEN AI tools<br>AWS S3 + OpenAI + Pinecone + RAG | **🔐 Network Security ML Pipeline**<br>FastAPI + MLflow + AWS S3 |
-| **NLP Intern – IIIT Hyderabad (2023–24)**<br>🎙️ CNN Speaker Recognition | **🖼️ Various GEN AI Apps**<br>OpenAI + LLAMA + Groq + Langchain |
+| **Junior AI/ML Engineer – Tractrix (Feb 2025–Present)**<br>🧠 Self-Reflective RAG + Agentic Graph Pipeline<br>⚙️ GStreamer optimization (18→30 FPS, -35% latency)<br>🐧 Edge AI: Jetson Nano, AGX, Raspberry Pi<br>🔁 Hallucination mitigation & LangGraph orchestration | **🤝 MeetingMind – AI Meeting Orchestration Agent**<br>LangGraph + Multi-Agent + HITL<br>Gmail, Google Calendar, Jira, Slack via MCP<br>FastAPI + Streamlit + SQLAlchemy |
+| **AI Intern – Smart Prepper (Aug–Nov 2024)**<br>⚡ 1,000+ flashcards/hr via LLM + RAG<br>🗺️ Mind Map Generator (Django + OpenAI, -70% time)<br>📌 Pinecone vector embeddings, +25% MCQ relevance<br>☁️ AWS S3 + PDF extraction pipeline | **✍️ Multi-Agent AI Content Generation System**<br>5-Agent Pipeline: Router→Research→Orchestrator→Workers→Reducer<br>LangGraph fan-out/fan-in + Tavily web research<br>AWS EC2 + Docker + GitHub Actions CI/CD |
+| **Tech Lead – GDSC & NLP Program, IIIT-H (2023–24)**<br>🎙️ CNN Speaker Recognition (97% accuracy)<br>📚 Sessions: TensorFlow, Deep Learning, Cloud Study Jams |  **✋ Sign Language Recognition System**<br>MediaPipe + RF Model + Streamlit  |
 
 ---
+
+
 
 ## 🏆 Achievements
 
