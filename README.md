@@ -17,7 +17,7 @@
 💡 Building **production-ready AI systems**
 
 **Focus Areas:**  
-🤖 ML & DL • 🧠 Agentic AI, GenAI & RAG • 👁️ Computer Vision & Edge AI • ⚙️ MLOps  
+🤖 Machine Learning & Deep Learning • 🧠 Agentic AI Systems, Generative AI & RAG((Retrieval Augmented Generation) • 👁️ Computer Vision & Edge AI • ⚙️ MLOps  
 
 Currently working on **GPU-accelerated video analytics & embedded AI systems**
 
